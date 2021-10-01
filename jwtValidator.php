@@ -11,7 +11,7 @@ class  JWT_VALIDATOR
 	//generate PUB Key by executing the go script.
 	public static function get_PUBKEY_from_GO($jwks_uri_Object)
     {
-		$output = shell_exec('go run /home/gherunner-admin/test.go');
+		$output = shell_exec('go run /home/test.go');
 		$output = ltrim($output,"-----BEGIN RSA PUBLIC KEY-----\n");
 		$output = str_replace("-----END RSA PUBLIC KEY-----", "", $output);
 		
