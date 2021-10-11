@@ -10,3 +10,6 @@ AzureB2C is one of my favorite cloud services offered by Microsoft Azure. Althou
 
 ## Documentation
 <img align="center" src="azure_b2c_diagram.png"/>
+<br/>
+<br/>
+<img align="center" src="azureB2C_auth_flow.png" width="400" />
