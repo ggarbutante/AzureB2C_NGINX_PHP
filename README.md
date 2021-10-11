@@ -9,5 +9,4 @@ AzureB2C is one of my favorite cloud services offered by Microsoft Azure. Althou
 - working knowledge in OpenID Connect (OIDC) and Oauth2.
 
 ## Documentation
-<br/>
 <img align="center" src="azure_b2c_diagram.png"/>
