@@ -7,3 +7,8 @@ AzureB2C is one of my favorite cloud services offered by Microsoft Azure. Althou
 - working knowledge in Nginx as reverse proxy and Nginx's [Auth Request Modue](http://nginx.org/en/docs/http/ngx_http_auth_request_module.html)
 - working knowledge in [JWT](https://jwt.io/introduction)
 - working knowledge in OpenID Connect (OIDC) and Oauth2.
+
+## Documentation
+<br/>
+<br/>
+<img align="center" src="azure_b2c_diagram.png" align="right" width="400" />
