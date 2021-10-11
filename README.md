@@ -1,5 +1,5 @@
 # AzureB2C_NGINX_PHP
-AzureB2C is one of my favorite cloud services offered by Microsoft Azure. Although Microsoft has done a great job on their documentation, they didn't include PHP on their application code samples. So to all of my fellow PHP lovers out there, here is my implementation of a robust Customer Identity Access Management (CIAM) solution using Nginx, PHP, and AzureB2C tech stack.
+AzureB2C is one of my favorite cloud services offered by Microsoft Azure. Although Microsoft has done a great job on Azure B2C documentation, they didn't include PHP on their application code samples and use cases. So to all of my fellow PHP lovers out there, here is my implementation of a robust Customer Identity Access Management (CIAM) solution using Nginx, PHP, and AzureB2C tech stack.
 
 ## Requirements
 - understanding of [AzureB2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview)
