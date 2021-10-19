@@ -1,5 +1,5 @@
 # AzureB2C_NGINX_PHP
-AzureB2C is one of my favorite cloud services offered by Microsoft Azure. Although Microsoft has done a great job on Azure B2C documentation, they didn't include PHP on their application code samples and use cases. So to all of my fellow PHP lovers out there, here is my implementation of a robust Customer Identity Access Management (CIAM) solution using Nginx, PHP, and AzureB2C tech stack.
+AzureB2C is one of my favorite cloud services offered by Microsoft Azure. Although Microsoft has done a great job on Azure B2C documentation, they didn't include PHP on their application code samples and use cases. So for my fellow PHP lovers out there, here is my implementation of a robust Customer Identity Access Management (CIAM) solution using Nginx, PHP, and AzureB2C tech stack.
 
 ## Problem
 - Python web apps and Shiny apps created by our data scientists do not include user authentication (IAM) features. It can be a problem when you don't want to expose your apps to the public and you don't want search engines like google or bing to include your web apps on their web indexing.
